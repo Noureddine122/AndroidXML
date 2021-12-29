@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<personnes>
+    <personne name="Noureddine" prenom="Nours" age="18" address="Agadir" />
+    <personne name="Yassine" prenom="FSdf" age="18" address="Agadir" />
+    <personne name="Mohamed" prenom="sdf" age="18" address="Agadir" />
+    <personne name="Noura" prenom="Noursds" age="18" address="Agadir" />
+    <personne name="Nouhaila" prenom="sdf" age="18" address="Agadir" />
+</personnes>

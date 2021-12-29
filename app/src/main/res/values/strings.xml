@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidXMLParser</string>
+    <string name="la_liste_des_personnes_au_fichier_xml">La liste des personnes au fichier XML</string>
+</resources>
